@@ -13,7 +13,8 @@ Salient Features Implemented
 4. Table for showing city data
 
 # Running Server
-Follow the README.md under server folder
+Follow the README.md under client folder
+
 
 # Backend Application Overview
 
@@ -28,4 +29,4 @@ Salient Features Implemented
 1. [Node JS (v8.9.x or greater)](<https://nodejs.org/en/download/>)
 
 # Running Server
-Follow the README.md under client folder
+Follow the README.md under server folder
